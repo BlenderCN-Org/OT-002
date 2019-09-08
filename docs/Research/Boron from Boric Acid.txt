@@ -1,0 +1,32 @@
+Uploaded on Feb 20, 2011
+In this video, I isolate elemental Boron over a number of steps, starting with boric acid!
+(I was fighting off a bit of a cold, so if my narration sounds like I'm bored that's why :) )
+
+Here's the procedure: Start with 15g of boric acid and heat it over medium heat for about a half hour until it dehydrates to boric oxide, B2O3. The transition is very easily visible, as the powder "melts" into a sticky, glassy mass.
+Next let the boric oxide cool, then pry it off the dish and crush it up into a fine powder (NOT an easy process - this stuff is extremely hard and tenaciously sticks to the dish. Be sure to heat it on something you don't mind destroying to get it off.)
+Then, we essentially want to make a thermite out of it by thoroughly mixing it with a roughly equal weight of magnesium powder. I recovered 8.2g of B2O3 and used 9g of Mg. Stoichiometrically, only 8.4g of Mg is needed but I wanted to make sure all of the B2O3 was used up. Ignite the mix using your favorite thermite ignition method, and immediately cover the reaction once it's finished. This is to prevent the boron that is produced from re-oxidizing in the air while it's still hot.
+Let it cool, and then remove the cover. Break up the fused reaction products into smaller pieces, and pour some water on everything to cover it up. Then _slowly_ add hydrochloric acid. Extreme care should be taken at this step, because adding the acid produces a lot of gas, is extremely exothermic, and might evolve explosive diborane gas. I took my time and stretched this out over a few hours.
+Keep adding acid slowly until the bubbling stops. Everything should have reacted away except for black boron. Filter or decant the solution, and you're left with your pure, elemental boron!
+
+In the acid digestion step, a large number of reactions occur to eliminate all the other products of this process.
+First, the water reacts with any leftover reactants:
+Mg (s) + 2H2O (l) == Mg(OH)2 (s) + H2 (g)
+B2O3 (s) + H2O (l) == 2B(OH)3 (aq)
+
+Then, the acid takes care of everything else:
+Mg(OH)2 (s) + 2HCl (aq) == MgCl2 (aq) + 2H2O (l)
+Mg (s) + 2HCl (aq) == MgCl2 (aq) + H2 (g)
+MgO (s) + 2HCl (aq) == MgCl2 (aq) + H2O (l)
+Mg3B2 (s) + 6HCl (aq) == B2H6 (g) + 3MgCl2 (aq)
+
+Even the products of the permanganate igniter reaction are consumed completely:
+14KMnO4 (s) + 4C3H5(OH)3 (aq) == 7K2CO3 (s) + 7MnO3 (s) + 5CO2 (g) + 16H2O (l)
+K2CO3 (s) + 2HCl (aq) == KCl (aq) + CO2 (g) + H2O (l)
+MnO3 (s) + 6HCl (aq) == MnCl2 (aq) + H2O (l) + Cl2 (g)
+
+Big thanks to BromicAcid of the ScienceMadness forum for outlining this procedure in his book project! To that I have added the equations for all the acid digestion reactions seen above.
+Category
+Science & Technology
+License
+Standard YouTube License
+https://www.youtube.com/watch?v=0QBCyOrjR2o
