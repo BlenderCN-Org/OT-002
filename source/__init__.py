@@ -12,7 +12,7 @@
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 bl_info = {
-    "name" : "OT-002",
+    "name" : "OT_002",
     "author" : "Max Oltersdorf",
     "description" : "",
     "blender" : (2, 80, 0),
@@ -22,8 +22,9 @@ bl_info = {
     "category" : "Generic"
 }
 
-def register():
-    ...
+import bby
+from . OT_002_panel import OT_002_panel
 
-def unregister():
-    ...
+classes = (OT_002_panel)
+
+register, unregister = bpy.utils.register_classes_factory(classes)
